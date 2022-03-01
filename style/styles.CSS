@@ -17,13 +17,14 @@ h5{
 }
 
 button{
+	border: 2px orange;
 	border-radius:10px;
 	background-color: white;
 	outline:none;
 }
 
 button1{
-	border: 2px orange;
+	border: 2px double orange;
 	border-radius:10px;
 	background-color: white;
 }
