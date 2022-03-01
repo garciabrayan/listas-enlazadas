@@ -1,4 +1,4 @@
-.content{
+#texting{
 	column-count:4;
 	column-width: 120px;
 	border-spacing: 10px 5px;
@@ -11,8 +11,9 @@
 	
 }
 
-p{
+h5{
 	font-style: bolder;
+	margin-left: 20px;
 }
 
 article#part1,#part3,#part5  {
@@ -21,9 +22,10 @@ article#part1,#part3,#part5  {
 
 }
 
-article#part2,#part4,#part6 {
+button {
 	border: 2px double blue;
 	background-color: white;
+	outline:none;
 }
 
 
