@@ -16,17 +16,17 @@ h5{
 	margin-left: 20px;
 }
 
-article#part1,#part3,#part5  {
-	border: 2px solid black ;
-	background-color: whitesmoke;
 
-}
-
-button {
-	border: 2px double blue;
+button{
+	border: 2px orange;
+	border-radius:10px;
 	background-color: white;
 	outline:none;
+
 }
+
+
+
 
 
 
