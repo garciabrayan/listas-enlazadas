@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+article, aside, footer, deader, main, nav, nav2 , section {
+display: block;
+}
+
+html, body, h1, h2, h3, ul, li a, p, article, aside, footer, header, main, nav, nav2, section {
+	padding: 0;
+	margin: 0;
+}
+
+.banner{ /****/
+	background-color: ;
+	color: black;
+	padding: 50px 100px; 
+}
+
+body {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 15px;
+}
+
+nav {
+	background-color: #20416c;
+	padding: 5px;
+	margin-top: 1px;
+}
+
+li a {
+	color: white;
+}
+
+li {
+	display: inline;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+section {
+	
+	margin-top: 10px;
+	padding: 5px;
+}
+
+article { 
+	background-color: white;
+	margin-top: 5px; 
+	padding: 10px 15px;
+}
+
+main {
+	width: 640px;
+	float: left;
+	margin-bottom: 10px;
+}
+
+aside {
+	background-color: #bbbbbb;
+	width: 270px;
+	float: right;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+nav2 {
+	background-color: #20416c;+
+	padding: 5px;
+	margin-top: 1px;
+}
+
+footer {
+	clear: both;
+	background-color: #20416c;
+	color: white;
+	padding: 5px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
