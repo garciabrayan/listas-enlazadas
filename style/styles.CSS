@@ -16,6 +16,12 @@ h5{
 	margin-left: 20px;
 }
 
+button1{
+	border: 2px orange;
+	border-radius:10px;
+	background-color: white;
+
+}
 
 button{
 	border: 2px orange;
